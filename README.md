@@ -1,77 +1,215 @@
-<h1 align="left">Hi 👋! I’m Avisek Barik, learning Cloud Computing & DevOps ☁️.</h1>
+<!-- ================= HEADER ================= -->
 
-###
+<h1 align="center">
+  Hi 👋, I'm Avisek Barik
+</h1>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Avisek8637&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avisek8637&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">
+  ☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Avisek8637&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+---
 
-###
+<!-- ================= TYPING ANIMATION ================= -->
 
-<div align="left">
-  <a href="https://www.instagram.com/invites/contact/?igsh=l0nkir91oyh7&utm_content=3c6z6hc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="avisek2999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/avisek-barik-baa12b2a5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="avisek8637" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Docker;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Building+Scalable+Cloud+Infrastructure;Automation+%7C+CI%2FCD+%7C+Monitoring" />
+</p>
 
-###
+---
 
-<br clear="both">
+# 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/Avisek8637/Avisek8637/output/snake.svg" alt="Snake animation" />
+🎓 MCA Graduate passionate about **Cloud Computing and DevOps**.
 
-###
+☁️ Hands-on experience with **AWS Cloud Infrastructure**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+⚙️ Interested in **DevOps, CI/CD, Infrastructure as Code and Automation**.
 
-###
+🐳 Working with **Docker and Kubernetes / Amazon EKS**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avisek8637/Avisek8637/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avisek8637/Avisek8637/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Avisek8637/Avisek8637/output/pacman-contribution-graph.svg">
-</picture>
+🏗️ Building infrastructure using **Terraform and OpenTofu**.
 
-###
+🔄 Creating CI/CD pipelines using **Jenkins and GitHub Actions**.
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+📊 Monitoring applications and infrastructure using **Prometheus, Grafana and CloudWatch**.
 
-###
+🌐 Strong interest in **Cloud Networking, Infrastructure and Deployment Automation**.
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+</p>
+
+## 🚀 DevOps & Infrastructure
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,github,git,linux" />
+
+</p>
+
+## 💻 Programming & Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+
+</p>
+
+## 📊 Monitoring & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,vscode" />
+
+</p>
+
+---
+
+# ☁️ Cloud & DevOps Skills
+
+| Category | Technologies |
+|---|---|
+| ☁️ Cloud | AWS, Microsoft Azure, Google Cloud Platform |
+| 🐳 Containers | Docker |
+| ☸️ Orchestration | Kubernetes, Amazon EKS |
+| 🏗️ Infrastructure as Code | Terraform, OpenTofu |
+| 🔄 CI/CD | Jenkins, GitHub Actions, GitLab |
+| 🔧 Version Control | Git, GitHub |
+| 📊 Monitoring | Prometheus, Grafana, CloudWatch |
+| 🌐 Networking | VPC, ALB, NLB, Route 53, NAT Gateway, Internet Gateway |
+| 🔐 Security | IAM, Security Groups, NACL |
+| 💾 Storage | S3, EBS, EFS |
+| 🗄️ Database | MySQL, Amazon RDS |
+| 🐧 Operating System | Linux |
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 AWS 3-Tier Architecture
+
+Designed and deployed a scalable **3-tier application architecture on AWS**.
+
+### Technologies
+
+- AWS VPC
+- EC2
+- Application Load Balancer
+- RDS
+- Security Groups
+- IAM
+- Auto Scaling
+- Route 53
+
+🔗 **GitHub:**  
+https://github.com/Avisek8637
+
+---
+
+## 🔹 Static Website with ALB Routing
+
+Implemented a cloud-based web application using **AWS infrastructure and Application Load Balancer routing**.
+
+### Technologies
+
+- AWS EC2
+- Application Load Balancer
+- Target Groups
+- Security Groups
+- VPC
+- Internet Gateway
+
+🔗 **Repository:**  
+https://github.com/Avisek8637/Static-website-With-ALB-Routing.git
+
+---
+
+## 🔹 Python Application on Amazon EKS
+
+Containerized and deployed a Python application using **Docker and Amazon EKS**.
+
+### Technologies
+
+- Python
+- Docker
+- Amazon ECR
+- Kubernetes
+- Amazon EKS
+- IAM
+- Load Balancer
+
+🔗 **Repository:**  
+https://github.com/Avisek8637/python_app_with_EKS
+
+---
+
+## 🔹 CI/CD Automation
+
+Built automated CI/CD pipelines to streamline application build, testing and deployment workflows.
+
+### Technologies
+
+- Jenkins
+- GitHub Actions
+- Git
+- GitHub
+- Docker
+
+---
+
+## 🔹 Monitoring & Observability
+
+Implemented infrastructure and application monitoring using:
+
+- Prometheus
+- Grafana
+- AWS CloudWatch
+- Alerting
+- Metrics
+- Dashboards
+
+---
+
+# 🔄 CI/CD Pipeline
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+ GitHub
+    │
+    ▼
+GitHub Actions / Jenkins
+    │
+    ├── Build
+    ├── Test
+    ├── Docker Build
+    └── Push Image
+            │
+            ▼
+          ECR
+            │
+            ▼
+      Kubernetes / EKS
+            │
+            ▼
+       Application
+            │
+            ▼
+ Prometheus + Grafana
